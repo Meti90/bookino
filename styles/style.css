@@ -997,6 +997,7 @@ a {
         background: rgb(80 80 73);
         display: flex;
         justify-content: space-around;
+        left:-0;
     }
 
     .menu {
